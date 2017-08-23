@@ -8,7 +8,7 @@
 
 IDE:
 
-* Visual Studio Communuty 2015 - **Желательно**
+* **Желательно** Visual Studio Communuty 2015 - 
 	https://www.microsoft.com/ru-ru/SoftMicrosoft/vs2015Community.aspx
 * Xamarin Studio
 	https://www.xamarin.com/download
@@ -19,9 +19,9 @@ IDE:
 ---------------------------------------
 
 Для публикации исходных кодов на GitHub подойдет любой доступный git клиент. В данном курсе
-во всех примерах и пояснениях используется Github Desktop (не бета версия). Установите что-то **ОДНО* из списка ниже:
+во всех примерах и пояснениях используется Github Desktop (не бета версия). Установите что-то **ОДНО** из списка ниже:
 
-* Github Desktop
+* **Желательно** Github Desktop
 	https://desktop.github.com/
 * GitKraken 
 	https://www.gitkraken.com/
