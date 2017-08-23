@@ -16,10 +16,14 @@
 
 1. Домашнее задание №1 - (link here)
 
+Лекции
+------
+
+* Лекция 1 ([pdf](lectures/lecture1.pdf))
 
 Контакты
 --------
 
 * email: dmtr.makarenko@gmail.com
 * telegram: https://t.me/d_makarenko
-* группа в telegram: (https://t.me/joinchat/CXJNmEM2arI5UdCePMVZYQ)
+* группа в telegram: https://t.me/joinchat/CXJNmEM2arI5UdCePMVZYQ
