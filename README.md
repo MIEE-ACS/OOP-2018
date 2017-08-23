@@ -9,7 +9,7 @@
 Базовое руководство по GitHub
 -----------------------------
 
-Использование GitHub для получения, выполнения и отправки на проверку домашних заданий подробно разобрано в [руководстве](using GitHub and home assignments.md).
+Использование GitHub для получения, выполнения и отправки на проверку домашних заданий подробно разобрано в [руководстве](using%20GitHub%20and%20home%20assignments.md).
 
 Ссылки для получения домашних заданий
 -------------------------------------
@@ -21,5 +21,5 @@
 --------
 
 * email: dmtr.makarenko@gmail.com
-* telegram: @d_makarenko
+* telegram: https://t.me/d_makarenko
 * группа в telegram: (https://t.me/joinchat/CXJNmEM2arI5UdCePMVZYQ)
