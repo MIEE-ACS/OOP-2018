@@ -17,6 +17,7 @@
 -------------------------------------
 
 1. Домашнее задание №1 - https://classroom.github.com/a/IBQBfeLx
+2. Домашнее задание №2 - https://classroom.github.com/a/V0Usvfit
 
 
 Лекции
