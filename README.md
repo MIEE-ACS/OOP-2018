@@ -24,6 +24,8 @@
 ------
 
 * Лекция 1 ([pdf](lectures/lecture1.pdf))
+* Лекция 2 ([pdf](lectures/lecture2.pdf))
+
 
 Контакты
 --------
