@@ -18,6 +18,7 @@
 
 1. Домашнее задание №1 (сдать до 10:00 23.09.17) - https://classroom.github.com/a/IBQBfeLx
 2. Домашнее задание №2 (сдать до 10:00 07.10.17) - https://classroom.github.com/a/V0Usvfit
+3. Домашнее задание №3 (сдать до 10:00 21.10.17) - https://classroom.github.com/a/NrX5dWma
 
 
 Лекции
