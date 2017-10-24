@@ -27,7 +27,7 @@
 * Лекция 1 ([Слайды](lectures/lecture1.pdf), [текст](lectures/lecture1.docx))
 * Лекция 2 ([Слайды](lectures/lecture2.pdf), [текст](lectures/lecture2.docx))
 * Лекция 3 ([Слайды](lectures/lecture3.pdf))
-* Лекция 4 ([Слайды](lectures/lecture3.pdf), [текст](lectures/lecture4.docx) )
+* Лекция 4 ([Слайды](lectures/lecture4.pdf), [текст](lectures/lecture4.docx) )
 
 Контакты
 --------
