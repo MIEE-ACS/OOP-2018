@@ -20,6 +20,7 @@
 2. Домашнее задание №2 (сдать до 10:00 07.10.17) - https://classroom.github.com/a/V0Usvfit
 3. Домашнее задание №3 (сдать до 10:00 21.10.17) - https://classroom.github.com/a/NrX5dWma
 4. Домашнее задание №4 (сдать до 10:00 05.11.17) - https://classroom.github.com/a/wJtODp_P
+5. Домашнее задание №5 (сдать до 10:00 18.11.17) - https://classroom.github.com/a/St1OzO5h
 
 
 Лекции
@@ -29,6 +30,7 @@
 * Лекция 2 ([Слайды](lectures/lecture2.pdf), [текст](lectures/lecture2.docx))
 * Лекция 3 ([Слайды](lectures/lecture3.pdf))
 * Лекция 4 ([Слайды](lectures/lecture4.pdf), [текст](lectures/lecture4.docx) )
+* Лекция 5 ([Слайды](lectures/lecture5.pdf), [текст](lectures/lecture5.docx) )
 
 Контакты
 --------
