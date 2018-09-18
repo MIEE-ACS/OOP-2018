@@ -9,6 +9,7 @@
 IDE:
 
 * **Желательно** Visual Studio Communuty 2015 - 
+	http://msdn.miet.ru или
 	https://www.microsoft.com/ru-ru/SoftMicrosoft/vs2015Community.aspx
 * Xamarin Studio
 	https://www.xamarin.com/download
