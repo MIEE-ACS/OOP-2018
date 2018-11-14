@@ -35,7 +35,7 @@
 1. Домашнее задание №2 (выполнить до 10:00 29.09.18) - https://classroom.github.com/a/uqh4IY9u
 1. Домашнее задание №3 (выполнить до 10:00 20.10.18) - https://classroom.github.com/a/DfHvfDuz
 1. Домашнее задание №4 (выполнить до 10:00 03.11.18) - https://classroom.github.com/a/lsabjt09
-1. Домашнее задание №4 (выполнить до 10:00 03.12.18) - https://classroom.github.com/a/XkKumQ2D
+1. Домашнее задание №5 (выполнить до 10:00 03.12.18) - https://classroom.github.com/a/XkKumQ2D
 
 4 лабораторных работы
 -------------------
